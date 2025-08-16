@@ -58,7 +58,7 @@
         <dependency>
             <groupId>io.etcd</groupId>
             <artifactId>jetcd-core</artifactId>
-            <version>0.5.11</version>
+            <version>0.7.0</version>
         </dependency>
         <!-- kafka -->
         <dependency>
@@ -157,7 +157,7 @@
         <dependency>
             <groupId>io.kubernetes</groupId>
             <artifactId>client-java</artifactId>
-            <version>10.0.1</version>
+            <version>16.0.0</version>
         </dependency>
     </dependencies>
 
