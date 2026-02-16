@@ -40,7 +40,7 @@
     "@delon/mock": "^12.4.2",
     "@delon/theme": "^12.4.2",
     "@delon/util": "^12.4.2",
-    "ajv": "^8.6.2",
+    "ajv": "^8.18.0",
     "ajv-formats": "^2.1.1",
     "echarts": "^5.2.2",
     "ng-alain": "^12.4.2",
